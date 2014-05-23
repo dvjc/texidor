@@ -1,0 +1,9 @@
+C:\Users\LENNON\Documents\Visual Studio 2013\Projects\texidor\texidor\bin\Debug\texidor.exe.config
+C:\Users\LENNON\Documents\Visual Studio 2013\Projects\texidor\texidor\bin\Debug\texidor.exe
+C:\Users\LENNON\Documents\Visual Studio 2013\Projects\texidor\texidor\bin\Debug\texidor.pdb
+C:\Users\LENNON\Documents\Visual Studio 2013\Projects\texidor\texidor\obj\Debug\texidor.Texidor.resources
+C:\Users\LENNON\Documents\Visual Studio 2013\Projects\texidor\texidor\obj\Debug\texidor.Properties.Resources.resources
+C:\Users\LENNON\Documents\Visual Studio 2013\Projects\texidor\texidor\obj\Debug\texidor.csproj.GenerateResource.Cache
+C:\Users\LENNON\Documents\Visual Studio 2013\Projects\texidor\texidor\obj\Debug\texidor.exe
+C:\Users\LENNON\Documents\Visual Studio 2013\Projects\texidor\texidor\obj\Debug\texidor.pdb
+C:\Users\LENNON\Documents\Visual Studio 2013\Projects\texidor\texidor\obj\Debug\texidor.csprojResolveAssemblyReference.cache
